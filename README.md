@@ -3,6 +3,14 @@
 プラグインを使わないでどれだけvimを快適に使う。  
 おすすめの設定があれば教えて下さい
 
+## vimrcの適用
+
+次のコマンドで本体に`.vimrc`を適用します
+
+```bash
+$ curl https://raw.githubusercontent.com/t-sakurai816/vimSetting/main/.vimrc > ~/.vimrc
+```
+
 ## カラースキーム `molokai` のインストール
 
 ```
