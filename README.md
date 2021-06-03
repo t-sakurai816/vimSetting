@@ -8,7 +8,8 @@
 次のコマンドで本体に`.vimrc`を適用します
 
 ```bash
-curl https://raw.githubusercontent.com/t-sakurai816/vimSetting/main/.vimrc > ~/.vimrc
+curl https://raw.githubusercontent.com/t-sakurai816/vimSetting/main/vimrc > ~/.vimrc
+curl https://raw.githubusercontent.com/t-sakurai816/vimSetting/main/molokai.vim >> ~/.vim/colors/molokai.vim
 ```
 
 ## カラースキーム `molokai` のインストール
