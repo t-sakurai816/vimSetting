@@ -9,6 +9,7 @@
 
 ```bash
 curl https://raw.githubusercontent.com/t-sakurai816/vimSetting/main/vimrc > ~/.vimrc
+mkdir -p ~/.vim/colors
 curl https://raw.githubusercontent.com/t-sakurai816/vimSetting/main/molokai.vim >> ~/.vim/colors/molokai.vim
 ```
 
